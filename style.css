@@ -1,0 +1,22 @@
+header{
+    background-color: cadetblue;
+    color: aqua;
+    text-align: center;
+}
+nav{
+    background-color: darkseagreen;
+    color: chocolate;
+    text-align: center;
+}
+body{
+background-color: black;
+    color: darkolivegreen;
+    border-radius: 70%;
+}
+footer{
+    background-color: orangered;
+    color: black;
+    text-align: center;
+    border-color: chartreuse;
+    border-radius: 18%;
+}
